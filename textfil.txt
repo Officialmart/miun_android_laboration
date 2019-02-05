@@ -1,5 +1,9 @@
 hejsanvfasvsd 
 
+<<<<<<< HEAD
 tjansa
+=======
+saker
+>>>>>>> 8040b38cf01a607492384b34e168ac6a2265f20d
 
 fungerar xd sfd
